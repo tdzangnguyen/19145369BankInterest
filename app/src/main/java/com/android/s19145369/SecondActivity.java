@@ -36,5 +36,6 @@ public class SecondActivity extends AppCompatActivity {
     public void takePicture(View view) {
         Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
         startActivityForResult(intent, REQUEST_IMAGE_CAPTURE);
+        finish();
     }
 }
