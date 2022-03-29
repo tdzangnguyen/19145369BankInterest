@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">19145369ExerciseWeek7</string>
+    <string name="title">CÔNG CỤ TÍNH LÃI TIỀN GỬI</string>
+    <string name="money">Số tiền gửi *</string>
+    <string name="interest">Lãi suất gửi *</string>
+    <string name="Period">Kỳ hạn gửi *</string>
+    <string name="result">XEM KẾT QUẢ</string>
+    <string name="interest_received">Số tiền lãi nhận được</string>
+    <string name="total">Tổng số tiền nhận được khi đến hạn</string>
+    <string name="button_take_picture">Take a picture</string>
+
+
+</resources>
